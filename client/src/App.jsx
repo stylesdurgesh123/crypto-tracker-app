@@ -96,7 +96,6 @@ export default function App() {
     <div className="container">
       <div className="header">
         <div className="brand">
-          <div className="badge">VR Automations</div>
           <h2 style={{ margin: 0 }}>Crypto Tracker</h2>
         </div>
         <label className="switch" title="Toggle theme">
